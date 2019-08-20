@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- src/shoots/posts/gaby-galban-park-adventures.md
 - src/pages/posts/my-thoughts-about-barcelona.md
 - src/pages/posts/2019-04-09-basic-rules-for-walking-in-the-mountains.md
 - src/pages/posts/2019-03-30-working-from-home.md
